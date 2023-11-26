@@ -1,0 +1,5 @@
+# Main endpoint
+GET http://localhost:8000/
+Accept: application/json
+
+###

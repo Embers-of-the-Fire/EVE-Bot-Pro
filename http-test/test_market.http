@@ -1,0 +1,17 @@
+# Jita on tranquility
+GET http://localhost:8000/market/jita/tq/34/
+Accept: application/json
+
+###
+
+# Jita on serenity
+GET http://localhost:8000/market/jita/se/34/
+Accept: application/json
+
+###
+
+# Jita on error
+GET http://localhost:8000/market/jita/foo/34/
+Accept: application/json
+
+###
